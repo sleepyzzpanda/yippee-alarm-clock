@@ -1,0 +1,4 @@
+-> set the time for the alarm using set_timer from rtc.c
+hard code a value for demo
+countdown_time() from rtc return the remianing time from set_timer
+alarm_func return 1 if timer runs out
